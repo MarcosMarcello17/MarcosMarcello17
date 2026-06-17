@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 Full-Stack Software Engineer focused on building scalable products with TypeScript, Next.js and Vue.js
 </h3>
 
-<p align="center">
-  <a href="https://github.com/MarcosMarcello17">
-    <img src="https://komarev.com/ghpvc/?username=MarcosMarcello17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
 
 ---
 
@@ -66,14 +61,6 @@ I enjoy designing data architectures, integrating third-party APIs, and building
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMarcello17&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMarcello17&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
@@ -88,6 +75,3 @@ I enjoy designing data architectures, integrating third-party APIs, and building
 </a>
 </p>
 
----
-
-> "Building software that solves real business problems."
